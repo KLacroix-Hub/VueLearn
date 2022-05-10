@@ -1,6 +1,6 @@
-# twitter-tutorial
+# Vue Js Learn - Twiiter Like
 
-## Project setup
+## Setup du projet, executer cette commande :
 ```
 npm install
 ```
